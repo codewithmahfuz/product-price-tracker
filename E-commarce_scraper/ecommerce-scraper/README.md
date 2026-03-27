@@ -1,4 +1,4 @@
-# ecommerce-scraper
+# E-commerce-Product-Tracker
 
 A production-grade, multi-category ecommerce web scraper that extracts product details, cleans them with pandas, and exports both CSV and Excel.
 
@@ -47,7 +47,7 @@ ecommerce-scraper/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/codewithmahfuz/product-price-tracker.git
    cd ecommerce-scraper
    ```
 2. Create a virtual environment:
